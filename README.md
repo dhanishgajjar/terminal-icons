@@ -10,7 +10,7 @@ Icons for your favorite Terminal Apps like [Hyper](https://hyper.is) or [iTerm](
 
 ## How to Contribute
 
- - Download the sample icon sketch file. Change the colors and create your icon, without changing any demensions.
+ - Download the sample icon sketch file. Change the colors and create your icon, without changing any dimensions.
  - Select the artboard and export a `svg` file.
  - Select the artboard again and export a `png` file, but @0.25x (256 x 256)
  - Download the [Image2Icon](http://www.img2icnsapp.com) App
