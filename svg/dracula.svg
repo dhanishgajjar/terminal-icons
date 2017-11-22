@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1024px" height="1024px" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>dracula</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#DCE0E1" offset="0%"></stop>
+            <stop stop-color="#848484" offset="100%"></stop>
+        </linearGradient>
+        <path d="M81,138 C71.0588745,138 63,146.058875 63,156 L63,870 C63,879.941125 71.0588745,888 81,888 L935,888 C944.941125,888 953,879.941125 953,870 L953,156 C953,146.058875 944.941125,138 935,138 L81,138 Z M81,108 L935,108 C961.509668,108 983,129.490332 983,156 L983,870 C983,896.509668 961.509668,918 935,918 L81,918 C54.490332,918 33,896.509668 33,870 L33,156 C33,129.490332 54.490332,108 81,108 Z" id="path-2"></path>
+        <filter x="-2.4%" y="-1.7%" width="104.7%" height="105.6%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="9" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="6" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.121178668 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="dracula">
+            <g id="Rectangle" fill-rule="nonzero">
+                <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+            </g>
+            <rect id="Rectangle-Copy" fill="#282A35" x="63" y="138" width="890" height="750" rx="30"></rect>
+            <path d="M111,186 L111,840 L905,840 L905,186 L111,186 Z M81,138 L935,138 C944.941125,138 953,146.058875 953,156 L953,870 C953,879.941125 944.941125,888 935,888 L81,888 C71.0588745,888 63,879.941125 63,870 L63,156 C63,146.058875 71.0588745,138 81,138 Z" id="Rectangle" fill="#000000" fill-rule="nonzero"></path>
+            <rect id="Rectangle-2" fill="#0EDFFE" x="150" y="258" width="190" height="60" rx="9"></rect>
+            <rect id="Rectangle-2-Copy-3" fill="#C890FF" x="150" y="458" width="300" height="60" rx="9"></rect>
+            <rect id="Rectangle-2-Copy-2" fill="#FF3EB4" x="490" y="458" width="120" height="60" rx="9"></rect>
+            <rect id="Rectangle-2-Copy" fill="#00FF4A" x="150" y="358" width="400" height="60" rx="9"></rect>
+        </g>
+    </g>
+</svg>
