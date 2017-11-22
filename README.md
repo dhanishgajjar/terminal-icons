@@ -1,6 +1,13 @@
 Icons for your favorite Terminal Apps like [Hyper](https://hyper.is) or [iTerm](http://www.iterm2.com)
 =========================================================
 
+### Dracula by [@zenorocha](https://github.com/zenorocha)
+
+<a href="https://draculatheme.com/visual-studio-code/"><img src="svg/dracula.svg" title="Dracula" width="128"/></a>
+### Cobalt2 by [@wesbos](https://github.com/wesbos)
+
+<a href="https://marketplace.visualstudio.com/items?itemName=wesbos.theme-cobalt2"><img src="svg/cobalt2.svg" alt="Cobalt 2" title="Cobalt2 by Wes Bos" width="128"/></a>
+
 ## How to Contribute
 
  - Download the sample icon sketch file. Change the colors and create your icon, without changing any demensions.
@@ -28,15 +35,6 @@ Right click on the shortcut App Icon, select properties and then shortcut tab an
 **Linux:**
 
 I think this works, but not sure https://smdavis.us/projects/menulibre/
-
-### Dracula by [@zenorocha](https://github.com/zenorocha)
-
-<a href="https://draculatheme.com/visual-studio-code/"><img src="svg/dracula.svg" title="Dracula" width="128"/></a>
-### Cobalt2 by [@wesbos](https://github.com/wesbos)
-
-<a href="https://marketplace.visualstudio.com/items?itemName=wesbos.theme-cobalt2"><img src="svg/cobalt2.svg" alt="Cobalt 2" title="Cobalt2 by Wes Bos" width="128"/></a>
-
-
 
 ---
 
