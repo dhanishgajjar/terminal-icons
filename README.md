@@ -36,6 +36,21 @@ Right click on the shortcut App Icon, select properties and then shortcut tab an
 
 I think this works, but not sure https://smdavis.us/projects/menulibre/
 
+*Gnome3*
+
+This example installs the `cobalt2` variant.  Replace `cobalt2.png` with `dracula.png` for the dracula icon.
+```bash
+$ xdg-icon-resource install --novendor --size 128 ./linux/cobalt2.png
+```
+
+Update the icon for the application you wish to use it with. This file is most likely in `/usr/share/applications/` or `~/.local/share/applications` and ends with `.desktop`.  For example, I have replaced deepin-terminal icon with the cobalt2 icon.
+
+* edit (sudo) `/usr/share/applications/deepin-terminal.desktop`
+* modify `Icon=deepin-terminal` -> `Icon=cobalt2`
+* save/exit
+
+> You may have to restart your desktop environment
+
 ---
 
 You can get in touch with me at Twitter: [@dhanishgajjar](https://twitter.com/dhanishgajjar)
