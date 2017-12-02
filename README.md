@@ -4,9 +4,14 @@ Icons for your favorite Terminal Apps like [Hyper](https://hyper.is) or [iTerm](
 ### Dracula by [@zenorocha](https://github.com/zenorocha)
 
 <a href="https://draculatheme.com/visual-studio-code/"><img src="svg/dracula.svg" title="Dracula" width="128"/></a>
+
 ### Cobalt2 by [@wesbos](https://github.com/wesbos)
 
 <a href="https://marketplace.visualstudio.com/items?itemName=wesbos.theme-cobalt2"><img src="svg/cobalt2.svg" alt="Cobalt 2" title="Cobalt2 by Wes Bos" width="128"/></a>
+
+### Monokai Pro by [@legendofcolt](https://github.com/legendofcolt)
+
+<a href="https://marketplace.visualstudio.com/items?itemName=monokai.theme-monokai-pro-vscode"><img src="svg/monokai-pro.svg" alt="Cobalt 2" title="Cobalt2 by Wes Bos" width="128"/></a>
 
 ## How to Contribute
 
@@ -38,7 +43,7 @@ I think this works, but not sure https://smdavis.us/projects/menulibre/
 
 *Gnome3*
 
-This example installs the `cobalt2` variant.  Replace `cobalt2.png` with `dracula.png` for the dracula icon.
+This example installs the `cobalt2` variant. Replace `cobalt2.png` with `dracula.png` for the dracula icon. Replace `cobalt2.png` with `monokai-pro.png` for the Monokai Pro icon.
 ```bash
 $ xdg-icon-resource install --novendor --size 128 ./linux/cobalt2.png
 ```
