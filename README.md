@@ -9,9 +9,9 @@ Icons for your favorite Terminal Apps like [Hyper](https://hyper.is) or [iTerm](
 
 <a href="https://marketplace.visualstudio.com/items?itemName=wesbos.theme-cobalt2"><img src="svg/cobalt2.svg" alt="Cobalt 2" title="Cobalt2 by Wes Bos" width="128"/></a>
 
-### Monokai Pro by [@legendofcolt](https://github.com/legendofcolt)
+### Monokai Pro by [@Monokai](https://github.com/Monokai)
 
-<a href="https://marketplace.visualstudio.com/items?itemName=monokai.theme-monokai-pro-vscode"><img src="svg/monokai-pro.svg" alt="Cobalt 2" title="Cobalt2 by Wes Bos" width="128"/></a>
+<a href="https://marketplace.visualstudio.com/items?itemName=monokai.theme-monokai-pro-vscode"><img src="svg/monokai-pro.svg" alt="Monokai Pro themed iTerm icon" title="Monokai Pro by Monokai" width="128"/></a>
 
 ## How to Contribute
 
