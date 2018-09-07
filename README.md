@@ -1,6 +1,8 @@
 Icons for your favorite Terminal Apps like [Hyper](https://hyper.is) or [iTerm](http://www.iterm2.com)
 =========================================================
 
+Like Visual Studio Code? Checkout https://github.com/dhanishgajjar/vscode-icons
+
 ### Dracula by [@zenorocha](https://github.com/zenorocha)
 
 <a href="https://draculatheme.com/visual-studio-code/"><img src="svg/dracula.svg" title="Dracula" width="128"/></a>
