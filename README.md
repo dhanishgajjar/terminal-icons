@@ -35,7 +35,7 @@ Like Visual Studio Code? Checkout https://github.com/dhanishgajjar/vscode-icons
 
 Easiest way to change the icons is by using https://freemacsoft.net/liteicon/. Just Drag and Drop the custom icon and hit `Apply Changes`.
 
-Copy the `.icns` file you'd like to use. Find the application your trying to adjust in your Applications folder, right click the icon and select `Get Info`. Click the icon in the top right corner so that a blue highlight appears around it. `⌘ + V` to paste the new icon in. It may take a few restarts of your terminal application for the icon to take.
+Copy the `.icns` file you'd like to use. Find the application you're trying to adjust in your Applications folder, right click the icon and select `Get Info`. Click the icon in the top right corner so that a blue highlight appears around it. `⌘ + V` to paste the new icon in. It may take a few restarts of your terminal application for the icon to take.
 
 If for some reason that doesn't work, then dragging the `.icns` to the icon (in the top left) of the info pane, until you see the green plus sign and then dropping it works.
 
