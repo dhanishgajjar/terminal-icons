@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <defs>
+    <linearGradient id="city-lights-c" x1="50%" x2="50%" y1=".43%" y2="99.422%">
+      <stop offset="0%" stop-color="#DCE0E1"/>
+      <stop offset="100%" stop-color="#C2C6C7"/>
+    </linearGradient>
+    <path id="city-lights-b" d="M48,30 C38.0588745,30 30,38.0588745 30,48 L30,762 C30,771.941125 38.0588745,780 48,780 L902,780 C911.941125,780 920,771.941125 920,762 L920,48 C920,38.0588745 911.941125,30 902,30 L48,30 Z M48,0 L902,0 C928.509668,0 950,21.490332 950,48 L950,762 C950,788.509668 928.509668,810 902,810 L48,810 C21.490332,810 0,788.509668 0,762 L0,48 C0,21.490332 21.490332,0 48,0 Z"/>
+    <filter id="city-lights-a" width="104.7%" height="105.6%" x="-2.4%" y="-1.7%" filterUnits="objectBoundingBox">
+      <feOffset dy="9" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="6"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.121178668 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd" transform="translate(37 107)">
+    <g fill-rule="nonzero">
+      <use fill="#000" filter="url(#city-lights-a)" xlink:href="#city-lights-b"/>
+      <use fill="url(#city-lights-c)" xlink:href="#city-lights-b"/>
+    </g>
+    <rect width="890" height="750" x="30" y="30" fill="#1E252D" rx="18"/>
+    <path fill="#181E24" fill-rule="nonzero" d="M78,78 L78,732 L872,732 L872,78 L78,78 Z M48,30 L902,30 C911.941125,30 920,38.0588745 920,48 L920,762 C920,771.941125 911.941125,780 902,780 L48,780 C38.0588745,780 30,771.941125 30,762 L30,48 C30,38.0588745 38.0588745,30 48,30 Z"/>
+    <rect width="190" height="60" x="118" y="150" fill="#F6C788" rx="9"/>
+    <rect width="300" height="60" x="118" y="350" fill="#68A3F3" rx="9"/>
+    <rect width="120" height="60" x="458" y="350" fill="#D67887" rx="9"/>
+    <rect width="400" height="60" x="118" y="250" fill="#657D92" rx="9"/>
+  </g>
+</svg>

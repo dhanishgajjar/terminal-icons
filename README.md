@@ -19,6 +19,10 @@ Like Visual Studio Code? Checkout https://github.com/dhanishgajjar/vscode-icons
 
 <a href="https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme"><img src="svg/material.svg" alt="Material UI themed iTerm icon" title="Material UI by Akash Debnath" width="128"/></a>
 
+### City Lights by [@donovanroubos](https://github.com/donovanroubos)
+
+<a href="http://citylights.xyz/"><img src="svg/city-lights.svg" alt="City Lights UI themed iTerm icon" title="Material UI by Donovan Roubos" width="128"/></a>
+
 ## How to Contribute
 
  - Download the sample icon sketch file. Change the colors and create your icon, without changing any dimensions.
