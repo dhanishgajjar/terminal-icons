@@ -15,7 +15,7 @@ Like Visual Studio Code? Checkout https://github.com/dhanishgajjar/vscode-icons
 
 <a href="https://marketplace.visualstudio.com/items?itemName=monokai.theme-monokai-pro-vscode"><img src="svg/monokai-pro.svg" alt="Monokai Pro themed iTerm icon" title="Monokai Pro by Monokai" width="128"/></a>
 
-### Monokai Pro by [@reactuserakash](https://github.com/reactuserakash)
+### Material by [@reactuserakash](https://github.com/reactuserakash)
 
 <a href="https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme"><img src="svg/material.svg" alt="Material UI themed iTerm icon" title="Material UI by Akash Debnath" width="128"/></a>
 
