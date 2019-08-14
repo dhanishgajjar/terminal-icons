@@ -23,6 +23,10 @@ Like Visual Studio Code? Checkout https://github.com/dhanishgajjar/vscode-icons
 
 <a href="http://citylights.xyz/"><img src="svg/city-lights.svg" alt="City Lights UI themed iTerm icon" title="Material UI by Donovan Roubos" width="128"/></a>
 
+### Palenight by [@equinusocio](https://github.com/equinusocio) - icon by [@rodrigore](https://github.com/rodrigore)
+
+<a href="https://github.com/drewtempelmeyer/palenight.vim"><img src="svg/palenight.svg" alt="Palenight UI themed iTerm icon" title="Palenight themed by equinusocio" width="128"/></a>
+
 ## How to Contribute
 
  - Download the sample icon sketch file. Change the colors and create your icon, without changing any dimensions.
