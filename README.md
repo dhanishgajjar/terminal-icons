@@ -1,6 +1,6 @@
 <img src="images/hero.png" />
 
-A fun little project for custom Terminal Icons. I don't want to disable SIP and try to change the default macOS terminal icon. But these work great! with Hyper or iTerm. Also checkout the [VSCode Icons Project](https://github.com/dhanishgajjar/vscode-icons)
+A fun little project for custom Terminal Icons. I don't want to disable SIP and try to change the default macOS terminal icon. But these work great! with Hyper or iTerm. Also checkout the [Visual Studio Code Icons Project](https://github.com/dhanishgajjar/vscode-icons).
 
 #### Vintage Apple Macintosh 1984
 
